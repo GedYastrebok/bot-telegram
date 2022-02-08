@@ -1,0 +1,1 @@
+The bot collects the names communicated to it from the chat and writes them to .txt file
